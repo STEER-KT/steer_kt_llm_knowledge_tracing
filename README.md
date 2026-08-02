@@ -3,6 +3,11 @@
 This directory is a portable, standard-setting implementation of STEER-KT.
 It contains the DBE, NIPS, and XES data used by the method.
 
+## Dataset Availability
+
+This repository does not include the preprocessed dataset files because they exceed GitHub's maximum file size limit. All datasets used in this work are publicly available. We will release the preprocessed datasets through a Google Drive link after publication. 
+
+
 ## Repository layout
 
 ```text
