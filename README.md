@@ -1,8 +1,7 @@
 # STEER-KT
 
 This directory is a portable, standard-setting implementation of STEER-KT.
-It contains the DBE, NIPS, and XES data used by the method and excludes all
-cold-start experiment code and data.
+It contains the DBE, NIPS, and XES data used by the method.
 
 ## Repository layout
 
